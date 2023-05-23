@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Iphone",
+      "price": "100$",
+      "sail": "-50$",
+      "img": "Iphone 14"
+    }
+   ]
+}
